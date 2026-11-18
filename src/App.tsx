@@ -24,6 +24,7 @@ import fourth_Assignment from "./assets/fourth-assignment.png";
 import midterm_project from "./assets/careconnect.png";
 import wineShop from "./assets/wineshop.png";
 import fitin from "./assets/fitin.png";
+import portfolio_img from "./assets/portfolio_img.png";
 
 interface GitHubRepo {
   id: number;
@@ -41,6 +42,18 @@ interface GitHubRepo {
 const username = "divyamoma-ctrl";
 
 const liveProjects = [
+  {
+  keyword: "divya-portfolio",
+  title: "Personal Portfolio Website",
+  description:
+    "A personal portfolio website showcasing professional skills, projects, achievements and contact information through a modern, responsive design.",
+  demo: "https://divya-portfolio-brown.vercel.app/",
+  image: portfolio_img,
+  technologies: [
+    "React",
+    "Tailwind CSS",
+  ],
+},
   {
     keyword: "first-react-assignment-using-usestate",
     title: "React useState Assignment",
