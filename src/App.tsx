@@ -19,7 +19,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 import profilePic from "./assets/portfolio_profile_pic.png";
 import first_Assignment from "./assets/1st-assignment-img.png";
-import second_Assignment from "./assets/second-assgnment.png";
+import second_Assignment from "./assets/second-assignment.png";
 import fourth_Assignment from "./assets/fourth-assignment.png";
 import midterm_project from "./assets/careconnect.png";
 import wineShop from "./assets/wineshop.png";
