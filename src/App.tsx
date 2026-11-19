@@ -145,15 +145,21 @@ const skills = [
   },
   {
     title: "UI & State Management",
-    items: ["Tailwind CSS", "Material UI", "Redux Toolkit", "TanStack Query"],
+    items: ["Tailwind CSS", "Material UI", "Redux Toolkit"],
   },
-  {
-    title: "Backend Basics",
-    items: ["Node.js", "Express.js", "REST API", "Authentication"],
+   {
+    title: "React & Web Concepts",
+    items: [
+      "React Hooks",
+      "React Router",
+      "Context API",
+      "Responsive Design",
+      "API Integration",
+    ],
   },
   {
     title: "Tools & Database",
-    items: ["Git", "GitHub", "VS Code", "Postman", "MongoDB", "MySQL"],
+    items: ["Git", "GitHub", "VS Code", "Postman"],
   },
 ];
 
